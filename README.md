@@ -1,0 +1,1 @@
+npx prisma studio - To get the visual view
